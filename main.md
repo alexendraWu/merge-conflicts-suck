@@ -1,2 +1,2 @@
 ### var num = 50
-### var truth = "dudududududu"
+### var truth = "git is so difficult"
