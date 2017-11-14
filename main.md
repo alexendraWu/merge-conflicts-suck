@@ -1,3 +1,3 @@
 ### var num = 50
-### var truth = "Hello Dogs!"
+### var truth = "We are still friends"
 
